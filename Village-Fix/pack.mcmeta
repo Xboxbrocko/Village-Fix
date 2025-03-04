@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": {
+      "text": "This data pack fixes a bug in minecraft related to the spawning of the snowy sheperds house.",
+      "color": "#ff0000"
+    },
+    "pack_format": 61
+  }
+}
